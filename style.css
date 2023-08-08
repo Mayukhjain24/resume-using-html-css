@@ -1,0 +1,153 @@
+body{
+    padding: 0%;
+    margin: 0%;
+    overflow-x: hidden;
+}
+.outer-div{
+    display: flex;
+    width: 100%;
+    min-height: 100vh;
+}
+.left-container{
+    width: 30%;
+    background-color: #2E2D32;
+    color: aliceblue;
+    text-align: end;
+}
+.left-container img{
+    width: 100%;
+    height: 80vh;
+}
+.right-container{
+    width: 70%;
+}
+.right-container .name-box{
+    width: 100%;
+    height: 60vh;
+    padding: 70px;
+    font-size: xx-large;
+}
+.right-container .name-box h1{
+    margin-bottom: 0%;
+    padding-bottom: 0%;
+}
+.right-container .name-below-line{
+    background-color: #2E2D32;
+    padding-top: 0%;
+    margin-top: 0%;
+    color: yellow;
+}
+.right-container .name-below-line h3{
+    font-weight: 200;
+    padding: 10px;
+}
+
+.name-box p{
+    font-size: 20px;
+}
+
+.Yellow-wala-box{
+    position: absolute;
+    background-color: rgb(213 213 36);
+    opacity: 0.9;
+    width: 100%;
+    height: 18vh;
+    top: 64vh;
+    display: flex;
+}
+
+.yellow-box-left{
+    padding: 20px;
+    margin-right: 70px;
+    text-align: end;
+    width: 70%;
+}
+.yellow-box-right{
+    margin: 20px;
+    width: 180%;
+}
+
+.left-below-section{
+    margin: 20px;
+    width: 90%;
+}
+.left-below-section h2{
+    padding-bottom: 10px;
+    color: yellow;
+    border-bottom: 2px solid yellow;
+}
+.each-contact-section{
+    display: flex;
+    width: 100%;
+    justify-content: end;
+}
+.each-contact-section .fa-solid{
+    padding: 10px;
+    margin: 20px;
+    border: 2px solid yellow;
+    border-radius: 125%;
+}
+.education-section-title{
+    padding: 0% 5px;
+    margin: 0%;
+    color: #2E2D32;
+    background-color: yellow;
+    font-weight: 100;
+    font-size: x-large;
+}
+.right-below-box{
+    margin: 30px;
+    width: 100%;
+}
+.right-below-box h2{
+    border-bottom: 2px solid #2E2D32;
+}
+.professional-section{
+    display: flex;
+    width: 100%;
+}
+
+.professional-section-left{
+    width: 40%;
+    border-right:2px solid #2E2D32;
+}
+.professional-section-right{
+    width: 60%;
+    margin: 40px;
+}
+.border-bottom{
+    padding: 40px;
+    border-bottom:2px solid #2E2D32;
+}
+.space-below{
+    padding: 40px;
+    margin-bottom: 70px;
+}
+
+.progress-bar {
+    width: 200px;
+    height: 20px;
+    background-color:rgb(156, 10, 10);
+    position: absolute;
+
+}
+.skill{
+    background-color:yellow;
+    color: white;
+    padding: 1%;
+    text-align: right;
+    font-size: 20px;
+    height: 17px;
+}
+.excel{
+    width: 85%;
+}
+.photoshop{
+    width: 80%;
+}
+.powerpoint{
+    width: 85%;
+}
+.adobe{
+    width: 70%;
+}

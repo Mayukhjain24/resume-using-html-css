@@ -1,0 +1,15 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        
+        {
+            "type": "chrome",
+            "request": "launch",
+            "name": "Open index.html",
+            "file": "C:\Users\Mayuk\Downloads\ce228cb4-376c-4c5d-a7b3-6ccd6478fe22ang2\ang2\Mayukh Resume website"
+        }
+    ]
+}
